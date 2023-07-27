@@ -1,7 +1,7 @@
 ﻿
 namespace ArenaDeBatalha.GUI
 {
-    partial class Form1
+    partial class FormPrincipal
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -29,10 +29,17 @@ namespace ArenaDeBatalha.GUI
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // FormPrincipal
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "FormPrincipal";
+            this.Text = "Arena De Batalha";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
