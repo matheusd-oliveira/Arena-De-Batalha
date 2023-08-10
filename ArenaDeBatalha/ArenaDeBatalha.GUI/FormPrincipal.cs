@@ -62,9 +62,16 @@ namespace ArenaDeBatalha.GUI
 
         public void GameLoop(object sender, EventArgs e)
         {
+            this.gameObjects.RemoveAll(x => !x.Active);
             foreach (GameObject go in this.gameObjects)
             {
                 go.UpdateObject();
+
+                if (go.IsOutOfBounds())
+                {
+                    go.Destroy();
+                }
+
                 this.Invalidate();
             }
         }
