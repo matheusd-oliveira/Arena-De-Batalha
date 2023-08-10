@@ -1,0 +1,8 @@
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.dll
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\bin\Debug\ArenaDeBatalha.GameLogic.pdb
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.AssemblyReference.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.Media.resources
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.GenerateResource.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.csproj.CoreCompileInputs.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.dll
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GameLogic\obj\Debug\ArenaDeBatalha.GameLogic.pdb

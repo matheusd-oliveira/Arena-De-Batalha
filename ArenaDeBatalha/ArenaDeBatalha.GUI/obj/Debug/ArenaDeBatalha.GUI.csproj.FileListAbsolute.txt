@@ -8,3 +8,6 @@ C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Deb
 C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.CoreCompileInputs.cache
 C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.exe
 C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.pdb
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GameLogic.dll
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GameLogic.pdb
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.CopyComplete

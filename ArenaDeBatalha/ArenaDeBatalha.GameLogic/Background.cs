@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ArenaDeBatalha.GameLogic
 {
-    class Background : GameObject
+    public class Background : GameObject
     {
         public Background(Size bounds, Graphics screen) : base(bounds, screen)
         {
