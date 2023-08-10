@@ -1,0 +1,10 @@
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.exe.config
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.exe
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\bin\Debug\ArenaDeBatalha.GUI.pdb
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.AssemblyReference.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.FormPrincipal.resources
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.Properties.Resources.resources
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.GenerateResource.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.csproj.CoreCompileInputs.cache
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.exe
+C:\temp\CursoMaroquio\Arena-De-Batalha\ArenaDeBatalha\ArenaDeBatalha.GUI\obj\Debug\ArenaDeBatalha.GUI.pdb
