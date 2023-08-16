@@ -43,6 +43,7 @@ namespace ArenaDeBatalha.GUI
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Arena De Batalha";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.FormPrincipal_Paint);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormPrincipal_KeyDown);
             this.ResumeLayout(false);
 
         }

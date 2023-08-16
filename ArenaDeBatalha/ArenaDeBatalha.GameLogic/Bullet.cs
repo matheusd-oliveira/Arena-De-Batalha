@@ -7,28 +7,27 @@ using System.Threading.Tasks;
 
 namespace ArenaDeBatalha.GameLogic
 {
-    public class Enemy : GameObject
+    public class Bullet : GameObject
     {
 
-        public Enemy(Size bounds, Graphics screenPainter, Point position) : base(bounds, screenPainter)
+        public Bullet(Size bounds, Graphics screenPainter, Point position) : base(bounds, screenPainter)
         {
+            this.Speed = 20;
+            this.Sound = Media.Missile;
             this.Left = position.X;
             this.Top = position.Y;
-            this.Speed = 5;
-            this.Sound = Media.exploshion_short;
-
+            this.PlaySound();
         }
 
         public override Bitmap GetSprite()
         {
-            return Media.inimigo;
+            return Media.projetil;
         }
 
         public override void UpdateObject()
         {
-            this.MoveDown();
+            this.MoveUp();
             base.UpdateObject();
         }
-
     }
 }
